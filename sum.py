@@ -1,4 +1,4 @@
 a= 4
 b=4
 c=a+b
-print(f"sum of two number {c}")
+print(f"sum of two number {d}")
